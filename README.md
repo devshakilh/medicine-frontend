@@ -1,6 +1,7 @@
-Certainly! Below are separate README files for the frontend and backend of your medicine e-commerce platform. Each README file is tailored to your project's requirements and technology stack.
 
 ### Frontend README (`frontend/README.md`)
+
+Please excuse me because of my problem I could not complete the front end as promised
 
 ```markdown
 # Medicine E-Commerce Platform - Frontend
@@ -236,10 +237,4 @@ Deploy the backend to Heroku or any other cloud provider.
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-
-```
-
-These README files should provide a clear and comprehensive guide for setting up, running, and contributing to both the frontend and backend of your project.
