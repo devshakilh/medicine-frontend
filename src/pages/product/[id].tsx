@@ -60,7 +60,7 @@ const ProductPage: React.FC<ProductProps> = ({ product }) => {
                 <ul>
                   {product.variants.map((variant) => (
                     <li key={variant.name} className="mb-1">
-                      <span className="font-bold">{variant.name}:</span> {variant.value}
+                      <span className="font-bold">{variant.name}:</span> 
                     </li>
                   ))}
                 </ul>

@@ -16,7 +16,7 @@ const LoginForm = () => {
     e.preventDefault();
 
     try {
-      await dispatch(loginUser({ email, password })).unwrap();
+      // await dispatch(loginUser({ email, password })).unwrap();
     toast.success('Login in Successful')
       router.push('/dashboard'); // Redirect to a protected page after login
     } catch (err) {
